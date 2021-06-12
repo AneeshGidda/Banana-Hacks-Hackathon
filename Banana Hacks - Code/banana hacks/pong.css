@@ -1,0 +1,14 @@
+body {
+    padding: 0px;
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+canvas {
+    margin-top: 20vh;
+    margin-left: 27vw;
+    background: black;
+    outline: 1px solid white;
+}
